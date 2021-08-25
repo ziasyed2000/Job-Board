@@ -1,4 +1,4 @@
-## **<h2 align="center">Aggregated Job Board</h2>**
+## **<h2 align="center">Aggregated Job Board Website</h2>**
 This Web Application is using API's in the Backend to fetch data, catered to remote work. 
 
 ## Demo
